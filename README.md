@@ -17,13 +17,6 @@ The Apartment Rental Project is an online platform that connects apartment owner
 2) Back-End: Larval, MySQL 
 3) Deployment: Heroku, GitHub
 
-## Installation (Still Under Development)
-To install the project, follow these steps:
-
-1) Clone the repository: 'git clone https://github.com/Mohamed-Khlawy/Smart-Real-Estate.git'
-2) Install the dependencies
-3) Start the server
-
 ## Usage (Still Under Development)
 To use the project, follow these steps:
 
